@@ -1,8 +1,8 @@
 cv:
   name: Sadhana Anand
   label: Academic Profile
-  email:
-  location:
+  email: ""
+  location: ""
   image: ""
   summary: Academic profile for Sadhana Anand. This CV is intentionally minimal until education, appointments, publications, and contact details are confirmed.
 
@@ -13,11 +13,11 @@ cv:
   sections:
     Education:
       - institution: To be updated
-        location:
-        area:
-        studyType:
-        start_date:
-        end_date:
+        location: ""
+        area: ""
+        studyType: ""
+        start_date: ""
+        end_date: ""
         highlights:
           - Add degree, department, institution, and dates from LinkedIn or CV.
 
@@ -28,10 +28,10 @@ cv:
 
     Experience:
       - company: To be updated
-        position:
-        location:
-        start_date:
-        end_date:
+        position: ""
+        location: ""
+        start_date: ""
+        end_date: ""
         summary: Add academic, research, industry, or teaching roles.
 
     Projects:
@@ -42,7 +42,7 @@ cv:
       - title: To be updated
         authors:
           - Sadhana Anand
-        publisher:
-        releaseDate:
-        url:
+        publisher: ""
+        releaseDate: ""
+        url: ""
         summary: Add publications once available.
